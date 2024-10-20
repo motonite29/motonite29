@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @motonite29
 - Expert analyst
 - Intermediate financier
-- Beginner programmer 
-- 🌱 I’m currently learning as much as I can lol...
+- Beginner programmer
+- 🌱 I’m currently learning as much as I can.
 - 📫 How to reach me motonite29c@gmail.com
 
 <!---
